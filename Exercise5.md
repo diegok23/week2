@@ -8,4 +8,4 @@
 
 3. What does HEAD refer to in the context of git?
 
-  Se refiere al Último commit de la rama actual.
+  Se refiere al último commit de la rama actual.
