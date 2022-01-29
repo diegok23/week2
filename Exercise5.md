@@ -1,5 +1,11 @@
-1. git log --raw
+1. How do you see the files changed within each commit from git log?
 
-2. git log --follow -p .
+git log --raw
 
-3. se refiere al ultimo commit de la rama actual
+2. How do you see the contents of what changed within each file from the git log?
+
+git log --follow -p .
+
+3. What does HEAD refer to in the context of git?
+
+Se refiere al Último commit de la rama actual.
